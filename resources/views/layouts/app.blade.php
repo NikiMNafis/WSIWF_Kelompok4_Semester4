@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Konoha Library - @yield('title')</title>
+  <title>Perpustakaan -K4 @yield('title')</title>
 
   <!-- Custom fonts for this template-->
   <link href="{{asset('vendor_sb/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">

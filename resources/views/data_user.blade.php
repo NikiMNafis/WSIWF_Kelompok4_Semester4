@@ -9,7 +9,7 @@
 
           <!-- Page Heading -->
           <h1 class="h3 mb-2 text-gray-800">Data Member</h1>
-          <p class="mb-4">Berikut merupakan data member perpustakaan Konoha Library</p>
+          <p class="mb-4">Berikut merupakan data member Perpustakaan -K4 </p>
 
         @if(Session::has('berhasil'))
             <div class="alert alert-success">
@@ -21,7 +21,7 @@
           <!-- DataTales Example -->
           <div class="card shadow mb-4">
             <div class="card-header py-3">
-              <h6 class="m-0 font-weight-bold text-primary">Data Member 2.0.1</h6>
+              <h6 class="m-0 font-weight-bold text-primary">Data Member</h6>
             </div>
             <div class="card-body">
                  <a href="#" class="btn mb-3 btn-primary btn-icon-split btn-sm" data-toggle="modal" data-target="#insertModal">

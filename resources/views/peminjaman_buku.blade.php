@@ -9,7 +9,7 @@
 
           <!-- Page Heading -->
           <h1 class="h3 mb-2 text-gray-800">Data Peminjaman</h1>
-          <p class="mb-4">Berikut merupakan data peminjaman buku perpustakaan Konoha Library</p>
+          <p class="mb-4">Berikut merupakan data peminjaman buku Perpustakaan -K4</p>
 
           @if(Session::has('berhasil'))
             <div class="alert alert-success">
