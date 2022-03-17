@@ -37,8 +37,8 @@
                       <th>Nama Kategori</th>
                       <th>Deskripsi Kategori</th>
                       <th>Dibuat Pada</th>
-                      <th>Edit Data</th>
-                      <th>Hapus Data</th>
+                      <th>Update Data</th>
+                      <th>Delete Data</th>
 
                     </tr>
                   </thead>
@@ -57,7 +57,7 @@
                                 <span class="icon text-white-50">
                                     <i class="fas fa-check"></i>
                                 </span>
-                                <span class="text">Ubah</span>
+                                <span class="text">Update</span>
                             </a>
                       </td>
                       <td>
@@ -65,7 +65,7 @@
                                 <span class="icon text-white-50">
                                     <i class="fas fa-trash"></i>
                                 </span>
-                                <span class="text">Hapus</span>
+                                <span class="text">Delete</span>
                             </a>
 
                       </td>
